@@ -1,1 +1,2 @@
-export * from './envs';
+export * from '@/config/envs';
+export * from '@/config/services';
